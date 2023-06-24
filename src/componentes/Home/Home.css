@@ -1,0 +1,10 @@
+.joia-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagem {
+  width: 150px;
+  height: 140px;
+}

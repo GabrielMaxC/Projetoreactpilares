@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Joia da Alma",
+    "preço": 800,
+    "imagem": "./joias/alma.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Joia da Realidade",
+    "preço": 500,
+    "imagem": "./joias/realidade.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Joia do Tempo",
+    "preço": 300,
+    "imagem": "./joias/tempo.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Joia do Poder",
+    "preço": 360,
+    "imagem": "./joias/poder.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Joia da Mente",
+    "preço": 900,
+    "imagem": "./joias/mente.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Joia do Espaço",
+    "preço": 950,
+    "imagem": "./joias/espaço.jpg"
+  }
+]
